@@ -2,7 +2,10 @@
 
 Reproduce a scalac bug triggered by the [breeze](https://github.com/scalanlp/breeze) library.
 
-Just run `sbt compile`. This produces scalac errors like
+Just run `sbt compile`. This produces the errors below from scalac.
+
+This appears to be the same as [this bug](https://github.com/scala/bug/issues/9578),
+and the workaround listed there works.
 
 ```
 scalac: Error: assertion failed: 
