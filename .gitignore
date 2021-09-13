@@ -1,0 +1,5 @@
+.idea/
+target/
+*.arff
+.DS_Store
+data/output
