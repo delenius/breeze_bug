@@ -1,6 +1,6 @@
 # breeze_bug
 
-Reproduce a scalac bug triggered by the (https://github.com/scalanlp/breeze)[breeze] library.
+Reproduce a scalac bug triggered by the [breeze](https://github.com/scalanlp/breeze) library.
 
 Just run sbt compile. This produces scalac errors like
 
